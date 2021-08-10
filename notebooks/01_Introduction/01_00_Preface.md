@@ -26,6 +26,10 @@ toc:
 ---
 
 
-# Numerical methods for partial differential equations
+# Approximations and Taylor expansion
 
-Test preface
+Taylor's theorem provides a valuable tool to estimate the accuracy of discretized differential operators or time integration schemes {cite}`arfken2012`.
+## References
+```{bibliography} biblio.bib
+:filter: docname in docnames
+```
